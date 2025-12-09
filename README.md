@@ -1,12 +1,24 @@
-# Hola 👋, soy Joan Fernando Teves Samaniego
+<div align="center">
+  <h1>Hola 👋, soy Joan Fernando Teves Samaniego</h1>
+  <h3>Estudiante de Ingeniería de Software | Full Stack Developer</h3>
 
-### Estudiante de Ingeniería de Software | Full Stack Developer
+  <p>
+    Estudiante de 7º ciclo de Ingeniería de Software en la UPC. Me especializo en crear soluciones tecnológicas escalables, aplicando arquitectura de software limpia y gestión eficiente de datos.
+  </p>
 
-Soy un estudiante de 7º ciclo de Ingeniería de Software en la UPC y desarrollador apasionado por la creación de soluciones tecnológicas escalables.Me especializo en el desarrollo Full Stack, diseño de arquitectura de software y gestión eficiente de datos.
+  <p>
+    Focus actual: <strong>Domain-Driven Design (DDD)</strong> y <strong>Metodologías Ágiles</strong>.
+  </p>
 
-Me enfoco en escribir código limpio, aplicando buenas prácticas como **Domain-Driven Design (DDD)** y metodologías ágiles.
+  <a href="https://www.linkedin.com/in/fernando-teves-samaniego-048697307" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joan.fernando.t.s@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
----
+
 
 ## 🛠️ Stack Tecnológico
 
@@ -41,37 +53,34 @@ Me enfoco en escribir código limpio, aplicando buenas prácticas como **Domain-
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
----
+
 
 ## 🧠 Arquitectura y Metodologías
 
-- [cite_start]**Arquitectura:** Domain-Driven Design (DDD), MVC, RESTful APIs[cite: 23].
-- [cite_start]**Metodologías:** Agile (Scrum/Kanban)[cite: 5, 23, 37].
-- **Documentación:** Swagger / OpenAPI.
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Arquitectura** | Domain-Driven Design (DDD), MVC, RESTful APIs |
+| **Metodologías** | Agile (Scrum/Kanban) |
+| **Documentación** | Swagger / OpenAPI |
 
----
+
 
 ## 🚀 Proyectos Destacados
 
-### Gestión para Fábrica de Anisados San Fernando
-*Desarrollo Full Stack & Base de Datos*
-[cite_start]Desarrollé una solución web integral para la gestión de productos y visualización de catálogo[cite: 13].
-- [cite_start]**Logro:** Implementé un sistema de control de inventario y bases de datos para optimizar la administración de la fábrica[cite: 14].
-- [cite_start]**Documentación:** Elaboración de documentación técnica (papers) para la implementación y mantenimiento[cite: 15].
+### 🏭 Gestión para Fábrica de Anisados San Fernando
+**Rol:** Desarrollo Full Stack & Base de Datos
 
----
+Desarrollé una solución web integral para la gestión de productos y visualización de catálogo comercial.
+
+* **Logro Principal:** Implementación de sistema de control de inventario y optimización de base de datos para la administración de la fábrica.
+* **Gestión Técnica:** Elaboración de documentación técnica (papers) para asegurar la escalabilidad y mantenimiento del sitio.
+
 
 ## 📚 Certificaciones
 
-- [cite_start]**Full Stack Engineer Career Path** - Codecademy (2025)[cite: 11, 22].
-- [cite_start]**Introduction to DevOps** - Codecademy (2025)[cite: 24, 49].
-- [cite_start]**The Bits and Bytes of Computer Networking** - Google (2025)[cite: 26, 44].
-- [cite_start]**Introduction to MongoDB** - MongoDB, Inc. (2025)[cite: 25, 48].
+* **Full Stack Engineer Career Path** - Codecademy (2025)
+* **Introduction to DevOps** - Codecademy (2025)
+* **The Bits and Bytes of Computer Networking** - Google (2025)
+* **Introduction to MongoDB** - MongoDB, Inc. (2025)
 
----
 
-## 📫 Contáctame
-
-- [cite_start]**LinkedIn:** [Fernando Teves Samaniego](https://www.linkedin.com/in/fernando-teves-samaniego-048697307)[cite: 3].
-- [cite_start]**Email:** joan.fernando.t.s@gmail.com[cite: 3].
-- **Idiomas:** Español (Nativo) | [cite_start]Inglés (Avanzado)[cite: 42].
