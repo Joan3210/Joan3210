@@ -2,9 +2,9 @@
 
 ### Estudiante de Ingeniería de Software | Full Stack Developer
 
-[cite_start]Soy un estudiante de 7º ciclo de Ingeniería de Software en la UPC y desarrollador apasionado por la creación de soluciones tecnológicas escalables[cite: 2, 4, 10]. [cite_start]Me especializo en el desarrollo Full Stack, diseño de arquitectura de software y gestión eficiente de datos[cite: 4, 13, 14].
+Soy un estudiante de 7º ciclo de Ingeniería de Software en la UPC y desarrollador apasionado por la creación de soluciones tecnológicas escalables.Me especializo en el desarrollo Full Stack, diseño de arquitectura de software y gestión eficiente de datos.
 
-[cite_start]Me enfoco en escribir código limpio, aplicando buenas prácticas como **Domain-Driven Design (DDD)** y metodologías ágiles[cite: 5, 23].
+Me enfoco en escribir código limpio, aplicando buenas prácticas como **Domain-Driven Design (DDD)** y metodologías ágiles.
 
 ---
 
